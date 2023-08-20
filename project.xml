@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+
+	<meta title="IOSHaptics" package="com.sample.ioshaptics" version="1.0.0" company="Company Name" />
+	<app main="Main" path="Export" file="IOSHaptics" />
+
+	<source path="Source" />
+
+	<haxelib name="openfl" />
+
+	<assets path="Assets" rename="assets" />
+
+	<certificate team-id="46AAF24KZ3" />
+
+</project>
